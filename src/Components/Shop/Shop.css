@@ -1,0 +1,27 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 4fr, 1fr;
+    display: flex;
+    position: absolute;
+}
+
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
+
+.pera{
+    text-align: center;
+    padding: 30px;
+    font-family:cursive;
+}
+.head{
+    font-size: 50px;
+    color: darkorange;
+}
+
+.icon{
+    font-size: xx-large;
+}
+
