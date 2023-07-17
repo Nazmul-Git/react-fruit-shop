@@ -1,6 +1,7 @@
 [
     {
       "id": "64b031a67609a5697d918b03",
+      "quantity":0,
       "isAvailable": true,
       "picture": "https://pioneerthinking.com/wp-content/uploads/pexels-fruit-RuanBaker-129574-1.jpg",
       "price": 40,
@@ -10,6 +11,7 @@
     },
     {
       "id": "64b031a654c09090411a40e0",
+      "quantity":0,
       "isAvailable": false,
       "picture": "https://images6.fanpop.com/image/photos/34500000/Red-Apples-3-red-34590404-1920-1200.jpg",
       "price": 34,
@@ -19,6 +21,7 @@
     },
     {
       "id": "64b031a69abc4007f67e8538",
+      "quantity":0,
       "isAvailable": true,
       "picture": "https://healthjade.com/wp-content/uploads/2018/05/guava-fruit.jpg",
       "price": 36,
@@ -28,6 +31,7 @@
     },
     {
       "id": "64b031a6322cbc01ad556e6c",
+      "quantity":0,
       "isAvailable": true,
       "picture": "http://kamheadz.img8.com/photo/DSC_5142.jpg",
       "price": 35,
@@ -37,6 +41,7 @@
     },
     {
       "id": "64b031a697ebed4202ab8f67",
+      "quantity":0,
       "isAvailable": false,
       "picture": "https://eatingrichly.com/wp-content/uploads/2018/03/169463086_03db697327_o-800x1067.jpg",
       "price": 24,
@@ -46,6 +51,7 @@
     },
     {
       "id": "64b031a6f576f6ae2b07bc3b",
+      "quantity":0,
       "isAvailable": false,
       "picture": "https://farm3.staticflickr.com/2128/2394547665_19c33c97e6_z.jpg",
       "price": 20,
@@ -55,6 +61,7 @@
     },
     {
       "id": "64b031a607aae7b943a2e721",
+      "quantity":0,
       "isAvailable": true,
       "picture": "https://rukminim1.flixcart.com/image/1664/1664/plant-seed/7/k/z/real-seed-10-pusa-nanha-dwarf-papaya-f1-hybrid-imported-original-imaedwcyyh2twz2y.jpeg?q=90",
       "price": 38,
@@ -64,6 +71,7 @@
     },
     {
       "id": "64b031a6f92eff3e38407693",
+      "quantity":0,
       "isAvailable": false,
       "picture": "https://i0.wp.com/images2.minutemediacdn.com/image/upload/c_crop,w_6000,h_3375,x_0,y_482/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01h0n9d2b8aet9amr049.jpg?strip=all",
       "price": 40,
@@ -73,6 +81,7 @@
     },
     {
       "id": "64b031a622b85b5075cd1550",
+      "quantity":0,
       "isAvailable": true,
       "picture": "https://www.photos-elsoar.com/wp-content/images/The-25+-Most-Fresh-Fruits-Photos-in-One-Album-20.jpg",
       "price": 34,
@@ -82,6 +91,7 @@
     },
     {
       "id": "64b031a673fd5c973f644a7f",
+      "quantity":0,
       "isAvailable": false,
       "picture": "https://ecomercioagrario.com/wp-content/uploads/2017/04/170408_mangos-717x321.jpg",
       "price": 25,
@@ -91,6 +101,7 @@
     },
     {
       "id": "64b031a64eb2a3250025bdc6",
+      "quantity":0,
       "isAvailable": true,
       "picture": "https://tctelevision.nyc3.digitaloceanspaces.com/Noticias/_imagenesContenidosMatrix/lichi.jpg",
       "price": 25,
@@ -100,6 +111,7 @@
     },
     {
       "id": "64b031a6b771c3f3ca173d2b",
+      "quantity":0,
       "isAvailable": true,
       "picture": "https://www.thespruce.com/thmb/sB6PyIUILTPd33AFg_41YUFBnws=/2098x1429/filters:fill(auto,1)/GettyImages-601205046-09d9124e2788431bbcbed1c8a357a722.jpg",
       "price": 30,
@@ -109,6 +121,7 @@
     },
     {
       "id": "64b031a60d0e5a3ee7fc38ab",
+      "quantity":0,
       "isAvailable": false,
       "picture": "https://i5.walmartimages.com/asr/e6296bfd-242f-4ca9-9689-ed6c762fc323_1.23fd39bc7001d4e26a65f9ed053c8899.jpeg",
       "price": 35,
